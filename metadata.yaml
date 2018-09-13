@@ -1,5 +1,8 @@
 _repo: Der-Golem_51476
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51476-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Meyrink, Gustav
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35032
     wikipedia: http://en.wikipedia.org/wiki/Gustav_Meyrink
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51476#Der-Golem
 gutenberg_issued: '2016-03-16'
 gutenberg_type: Text
 identifiers:
