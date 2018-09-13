@@ -1,0 +1,28 @@
+_repo: Der-Golem_51476
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Meyrink, Gustav
+    alias: Meyer-Meyrink, Gustav
+    birthdate: 1868
+    deathdate: 1932
+    gutenberg_agent_id: '35032'
+    url: http://www.gutenberg.org/2009/agents/35032
+    wikipedia: http://en.wikipedia.org/wiki/Gustav_Meyrink
+description: ''
+gutenberg_issued: '2016-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51476'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy fiction, German -- Translations into English'
+- !lcsh 'Golem -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Paranormal fiction'
+- GITenberg
+title: Der Golem
+url: http://www.gutenberg.org/ebooks/51476
